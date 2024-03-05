@@ -1,0 +1,58 @@
+[
+ {
+  "Name": "N Sneha",
+  "EmployeeID": 123,
+  "Experience": 2,
+  "WorkPlace": "Hyderabad",
+  "Designation": "Employee",
+  "EmailID": "Sneha@gmail.com"
+ },
+ {
+  "Name": "M Prudhvi",
+  "EmployeeID": 167,
+  "Experience": 3,
+  "WorkPlace": "Benguluru",
+  "Designation": "Associate engineer",
+  "EmailID": "Prudhvi@gmail.com"
+ },
+ {
+  "Name": "P Vardhan",
+  "EmployeeID": 532,
+  "Experience": 5,
+  "WorkPlace": "Vizag",
+  "Designation": "Technical lead",
+  "EmailID": "Vardhan@gmail.com"
+ },
+ {
+  "Name": "R Priya",
+  "EmployeeID": 836,
+  "Experience": 8,
+  "WorkPlace": "Hyderabad",
+  "Designation": "HR",
+  "EmailID": "Priya@gmail.com"
+ },
+ {
+  "Name": "M Gayathri",
+  "EmployeeID": 253,
+  "Experience": 4,
+  "WorkPlace": "Vizag",
+  "Designation": "Software developer",
+  "EmailID": "Gayathri@gmail.com"
+ },
+ {
+  "Name": "N Amulya",
+  "EmployeeID": 567,
+  "Experience": 3,
+  "WorkPlace": "Benguluru",
+  "Designation": "Business analyst",
+  "EmailID": "Amulya@gmail.com"
+ },
+ {
+  "Name": "V Vishnu",
+  "EmployeeID": 356,
+  "Experience": 4,
+  "WorkPlace": "Hyderabad",
+  "Designation": "Software developer",
+  "EmailID": "Vishnu@gmail.com"
+ }
+]
